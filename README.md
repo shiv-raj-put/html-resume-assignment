@@ -1,9 +1,13 @@
-# HTML Resume Page Assignment
-**Web Dev Cohort 2026**
+# HTML Resume Page - Web Dev Cohort 2026
+**Name:** Shivraj Rajput  
+**Institution:** LNCT Indore
 
-A semantic, single-page HTML resume built without CSS, focusing on proper tag structure and layout.
+This is a clean, semantic HTML-only resume project built to match the layout requirements of the Web Dev Cohort 2026 assignment. No CSS was used in this project to demonstrate the strength of proper HTML structure.
 
 ## 🚀 Live Demo
-[Click here to view my Resume](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
+[View my Resume Live](https://shiv-raj-put.github.io/html-resume-assignment/)
 
-## 🛠️ Setup & Usage
+## 🛠️ How to Use
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/shiv-raj-put/html-resume-assignment.git](https://github.com/shiv-raj-put/html-resume-assignment.git)
